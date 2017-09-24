@@ -2,17 +2,19 @@
 layout: default
 ---
 
-# What is YASET
+# YASET - Yet Another SEquence Tagger
+
+## What is YASET
 
 `yaset` is a sequence tagger written in [Python](https://www.python.org/). This tool can be used in various NLP-related sequence tagging tasks (e.g. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) or [Part-of-Speech tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)). It implements state-of-the-art deep learning algorithms for sequence tagging from the NLP community.
 
-# Algorithms
+## Algorithms
 
 Currently, one algorithm is implemented in yaset but others will follow:
 
 * BiLSTM-Char-CRF (Lample et al., 2016)
 
-# Installation
+## Installation
 
 1. You need a working Python 3.3+ environment
 
@@ -31,11 +33,15 @@ cd yaset
 pip install .
 ```
 
-# Documentation
+## Documentation
 
 Documentation is currently beeing written and will be available shortly.
 
-# Contributors
+## Contributors
 
 * Principal contributor: [Julien Tourille](https://jtourille.github.io/)
 * Other contributors: [Olivier Ferret](http://oferret.free.fr/), Pierre Magistry, [Aurélie Névéol](https://perso.limsi.fr/neveol/), [Xavier Tannier](http://xavier.tannier.free.fr/index.php)
+
+## Acknowledgements
+
+This work was supported by [Labex Digicosme](https://digicosme.lri.fr), operated by the Foundation for Scientific Cooperation (FSC) Paris-Saclay, under grant CÔT and by the French National Agency for Research under grant [CABeRneT](https://cabernet.limsi.fr/) ANR-13-JS02-0009-01.
