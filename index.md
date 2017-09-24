@@ -12,7 +12,7 @@ layout: default
 
 Currently, one algorithm is implemented in yaset but others will follow:
 
-* BiLSTM-Char-CRF (Lample et al., 2016)
+* BiLSTM-Char-CRF ([Lample et al., 2016](http://dx.doi.org/10.18653/v1/N16-1030))
 
 ## Installation
 
