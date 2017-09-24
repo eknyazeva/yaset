@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 a:hover {
-  font-weight: normal;
+  font-weight: normal !important;
 }
