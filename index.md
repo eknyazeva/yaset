@@ -8,7 +8,7 @@ layout: default
 
 # Algorithms
 
-Currently, one algorithm is implemented in hyperopt but others will follow:
+Currently, one algorithm is implemented in yaset but others will follow:
 
 * BiLSTM-Char-CRF (Lample et al., 2016)
 
