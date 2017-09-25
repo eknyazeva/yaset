@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: YASET
 description: Fast Sequence Tagger with State-of-the-Art results
 show_downloads: true
+
+site:
+  github:
+    zip_url: https://github.com/jtourille/yaset/zipball/master
+    tar_url: https://github.com/jtourille/yaset/tarball/master
+    repository_url: https://github.com/jtourille/yaset
