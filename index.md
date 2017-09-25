@@ -10,13 +10,13 @@ layout: default
 
 ## Algorithms
 
-Currently, one algorithm is implemented in yaset but others will follow:
+Currently, one algorithm is implemented in `yaset` but others will follow:
 
 * BiLSTM-Char-CRF ([Lample et al., 2016](http://dx.doi.org/10.18653/v1/N16-1030))
 
 ## Installation
 
-1. You need a working Python 3.3+ environment
+1. You need a working **Python 3.3+** environment
 
 2. Clone the repository
 ```bash
