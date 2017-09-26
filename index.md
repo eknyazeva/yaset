@@ -39,8 +39,8 @@ Documentation is currently beeing written and will be available shortly.
 
 ## Contributors
 
-* Principal contributor: [Julien Tourille](https://jtourille.github.io/)
-* Other contributors: [Olivier Ferret](http://oferret.free.fr/), Pierre Magistry, [Aurélie Névéol](https://perso.limsi.fr/neveol/), [Xavier Tannier](http://xavier.tannier.free.fr/index.php)
+* Principal contributors: [Julien Tourille](https://jtourille.github.io/), [Olivier Ferret](http://oferret.free.fr/), [Aurélie Névéol](https://perso.limsi.fr/neveol/), [Xavier Tannier](http://xavier.tannier.free.fr/index.php)
+* Other contributor: Pierre Magistry, 
 
 ## Acknowledgements
 
