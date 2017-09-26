@@ -40,7 +40,7 @@ Documentation is currently beeing written and will be available shortly.
 ## Contributors
 
 * Principal contributors: [Julien Tourille](https://jtourille.github.io/), [Olivier Ferret](http://oferret.free.fr/), [Aurélie Névéol](https://perso.limsi.fr/neveol/), [Xavier Tannier](http://xavier.tannier.free.fr/index.php)
-* Other contributor: Pierre Magistry, 
+* Other contributor: Pierre Magistry
 
 ## Acknowledgements
 
