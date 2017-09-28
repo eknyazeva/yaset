@@ -35,7 +35,7 @@ pip install .
 
 ## Documentation
 
-Documentation is currently beeing written and will be available shortly.
+The documentation is available at this location: http://yaset.readthedocs.io
 
 ## Contributors
 
