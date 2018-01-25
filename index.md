@@ -4,7 +4,7 @@ layout: default
 
 # YASET - Yet Another SEquence Tagger
 
-## What is YASET
+## What is YASET?
 
 `yaset` is a sequence tagger written in [Python](https://www.python.org/). 
 This tool can be used for various NLP-related sequence tagging tasks 
