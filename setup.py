@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 def is_gpu():
     packages = [str(i) for i in pip.get_installed_distributions()]
     for item in packages:
-        if "tensorflow-gpu<=1.3.0" in item:
+        if "tensorflow-gpu" in item:
             return True
     return False
 
@@ -15,21 +15,21 @@ kw = [
     'gensim==3.2.0',
     'numpy',
     'prettytable',
-    'tensorflow<=1.3.0'
+    'tensorflow'
 ]
 
 try:
     import tensorflow
 except ImportError:
     kw.pop()
-    kw.append('tensorflow<=1.3.0')
+    kw.append('tensorflow')
 else:
     if is_gpu():
         kw.pop()
-        kw.append('tensorflow-gpu<=1.3.0')
+        kw.append('tensorflow-gpu')
     else:
         kw.pop()
-        kw.append('tensorflow<=1.3.0')
+        kw.append('tensorflow')
 
 setup(name='YASET',
       version='0.3',
